@@ -1,3 +1,6 @@
 # git-demo
+This is my first git repo
 <br>
-<h1> This is Git Demo </h1>
+This is Git Demo
+
+author - Ashfaq Ahmed
